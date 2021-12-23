@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770346544937",
+    "project_id": "treinos-9d031",
+    "storage_bucket": "treinos-9d031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770346544937:android:fb3d833da00303d527d138",
+        "android_client_info": {
+          "package_name": "com.jcs.treinos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770346544937-3rt8jv7cjh7jm796ccdg80di5g61r0ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jcs.treinos",
+            "certificate_hash": "dac8e85165025e8284fc847f3902d7858818ad5c"
+          }
+        },
+        {
+          "client_id": "770346544937-i72am6t97e4cev55amu1fii17bq98q1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIcyzjWGuvQVWGUTsWQurJFaxR0THdEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770346544937-i72am6t97e4cev55amu1fii17bq98q1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

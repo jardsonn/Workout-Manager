@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Treinos</string>
+    <string name="signin_google_info">Entre com sua conta do Google para começar a gerenciar seu treinos e manter uma vida mais saudável.</string>
+    <string name="error_entering">Ocorreu um erro. Tente novamente mais tarde.</string>
+    <string name="nav_home">Início</string>
+    <string name="add_workout">Adicionar treino</string>
+    <string name="name">Nome</string>
+    <string name="add_exercise">Adicionar exercício</string>
+    <string name="add_workout_name_hint">Treino para perder barriga</string>
+    <string name="description">Descrição</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="add_workout_description_hint">Dê mais detalhes sobre o treino</string>
+    <string name="empty_name">Informe o nome do treino</string>
+    <string name="save_success">Treino criado com sucesso!</string>
+    <string name="no_workout">Você ainda não adicionou um treino. Clique no botao flutuante para adicionar.</string>
+</resources>

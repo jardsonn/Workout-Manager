@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="?attr/selectableItemBackground"
+    android:paddingHorizontal="@dimen/marginOrPadding16dp"
+    android:paddingVertical="@dimen/marginOrPadding16dp">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/iv_workout_item"
+        android:layout_width="@dimen/ic_workout_item_size"
+        android:layout_height="@dimen/ic_workout_item_size"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="@dimen/marginOrPadding16dp"
+        android:scaleType="centerInside"
+        tools:src="@drawable/ic_workout_01" />
+
+    <TextView
+        android:id="@+id/tv_name_workout_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/iv_workout_item"
+        android:lines="1"
+        android:textColor="@color/text_color"
+        android:textSize="@dimen/text_item_size"
+        android:textStyle="bold"
+        tools:text="Abdominal lateral" />
+</RelativeLayout>

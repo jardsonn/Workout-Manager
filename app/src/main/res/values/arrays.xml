@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="workout_icons">
+        <item>@drawable/ic_workout_01</item>
+        <item>@drawable/ic_workout_02</item>
+        <item>@drawable/ic_workout_03</item>
+        <item>@drawable/ic_workout_04</item>
+        <item>@drawable/ic_workout_05</item>
+        <item>@drawable/ic_workout_06</item>
+        <item>@drawable/ic_workout_07</item>
+        <item>@drawable/ic_workout_08</item>
+        <item>@drawable/ic_workout_09</item>
+        <item>@drawable/ic_workout_10</item>
+        <item>@drawable/ic_workout_11</item>
+        <item>@drawable/ic_workout_12</item>
+    </array>
+</resources>

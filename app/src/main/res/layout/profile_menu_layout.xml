@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:paddingHorizontal="@dimen/marginOrPadding16dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="26dp"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="0dp"
+        tools:cardBackgroundColor="@color/color_primary_variant">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/avatar_menu"
+            android:layout_width="@dimen/avatarMenuSize"
+            android:layout_height="@dimen/avatarMenuSize"
+            android:layout_gravity="center"
+            app:srcCompat="@drawable/ic_account" />
+
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
